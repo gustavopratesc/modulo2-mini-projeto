@@ -1,0 +1,15 @@
+.sessao_lista {
+    background-color: #C5EBD6;
+
+}
+.sessao_lista > .titulo_sessao {
+    background-color: #2FA866;
+    color: white;
+    margin-top: 10px;
+}
+ul {
+    columns: 2;
+    list-style-position: inside;
+    font-size: 14px;
+    margin-left: 30px;
+}

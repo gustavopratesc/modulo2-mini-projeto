@@ -1,0 +1,8 @@
+.android-history {
+    color: green;
+    text-decoration: none;
+}
+.android-history:hover {
+    text-decoration: none;
+    color: rgb(76, 0, 255);
+}

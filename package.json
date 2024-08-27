@@ -1,0 +1,11 @@
+{
+  "name": "desafio10-curso",
+  "version": "1.0.0",
+  "description": "Desafio curso em video modulo 02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Prates Caetano",
+  "license": "ISC"
+}
