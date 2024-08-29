@@ -1,5 +1,6 @@
 .sessao_lista {
     background-color: #C5EBD6;
+    border-radius: 10px;
 
 }
 .sessao_lista > .titulo_sessao {

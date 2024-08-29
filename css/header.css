@@ -36,4 +36,7 @@ header {
     color: #3BD37F;
     text-decoration: underline;
     background-color: #e2e2e2;
+    transition-duration: 1s;
+    padding: 5px;
+    border-radius: 10px;
 }
